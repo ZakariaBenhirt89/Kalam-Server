@@ -1,5 +1,7 @@
-Signal-Server
+KALAM SERVER
 =================
+Kalam is using a Moroccan server
+
 
 Documentation
 -------------
